@@ -18,7 +18,7 @@
         Sri Ganganagar,
         (Rajasthan)<br />
         Email ID: <a href="http://www.gmail.com" target="_blank"> maheep.mnc@gmail.com	</a> <br />
-        Mobile No.: 08890590999
+        Mobile No.: 08890590999, 09460265111
     </address>
 <div align="right">    
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3458.263755778481!2d73.88623885!3d29.91430805000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3917b5199e7730fd%3A0x33ecabe1b434cf48!2sLakme+Salon!5e0!3m2!1sen!2sin!4v1393832947523" width="900" height="450" frameborder="5px" style="border:2"></iframe>
